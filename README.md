@@ -3,9 +3,9 @@ The Fibonacci sequence is a set of numbers that starts with a one or a zero, fol
 
 The purpose of this Python script is to check if an entered number is part of the Fibonnacci Sequence or Not
 
-The Fibonacci Sequence is derived as below
+The Fibonacci Sequence (1,1,2,3,5,8,13,21,34,55,89,144,233,377...... is derived as below
 
-1,1,2,3,5,8,13,21,34,55,89,144,233,377......
+
 
 # 1+1=2                         #...... 13+21=34
 # 1+2=3                         #...... 21+34=55
